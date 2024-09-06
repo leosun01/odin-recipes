@@ -1,1 +1,2 @@
 # odin-recipes
+This project is part of The Odin Project curriculum. It consists of a simple website with a main index page that will contain links to some recipes. I intend to show the knowledge I have acquired so far with basic HTML by creating links, lists, titles and paragraphs.
