@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+body {
+	background: #dee7e7;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	padding-bottom: 24px;
+}
+
+.card {
+	width: 645px;
+	height: auto;
+	margin: 18px auto;
+}
+
+.title {
+	font-size: 42px;
+	background: #ffb961;
+	/* margin-top: auto; */
+	padding: 8px;
+	border: dotted #252e33;
+}
+
+a {
+	font-size: 24px;
+	/* text-align: center; */
+	display: block;
+}
+
+img {
+	width: 645px;
+	height: auto;
+}
