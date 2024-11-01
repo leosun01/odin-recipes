@@ -16,21 +16,38 @@ body {
 	margin: 18px auto;
 }
 
-.title {
+.card-title {
 	font-size: 42px;
 	background: #ffb961;
 	/* margin-top: auto; */
 	padding: 8px;
-	border: dotted #252e33;
+	border: solid #252e33;
+}
+
+.title {
+	font-weight: bold;
+	font-size: 36px;
+	text-align: center;
+	background: #ffb961;
+	padding-top: 12px;
+	margin: auto;
 }
 
 a {
 	font-size: 24px;
-	/* text-align: center; */
+	text-align: center;
 	display: block;
 }
 
 img {
 	width: 645px;
 	height: auto;
+}
+
+.recipe {
+	width: 645px;
+	background: whitesmoke;
+	padding: 12px;
+	margin-top: 24px;
+	border: solid #252e33;
 }
