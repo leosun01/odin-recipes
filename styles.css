@@ -47,7 +47,7 @@ img {
 .recipe {
 	width: 645px;
 	background: whitesmoke;
-	padding: 12px;
+	padding-bottom: 12px;
 	margin-top: 24px;
 	border: solid #252e33;
 }
